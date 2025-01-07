@@ -1,5 +1,6 @@
 {
   "name": "vite-react-clean-app",
+  "author": "Vladimir Syromyatnikov",
   "private": true,
   "version": "0.0.0",
   "type": "module",
