@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "vite",
+    "dev": "vite",
+    "dev:no-checks": "vite --mode no-checks",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "lint": "eslint .",
